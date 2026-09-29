@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Rudues Greyrat",
   "version": "3.0.0",
   "language": "en",
   "adminOnly": false,
@@ -13,8 +13,8 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
-  "PREFIX": "/",
+  "BOTNAME": "Elise Greyrat",
+  "PREFIX": "-",
   "usePrefix": false,
   "reactUnsend": [
     "😡",
@@ -23,9 +23,9 @@
     "😠"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "61591445297058",
+    "61591445297058",
+    "61591445297058"
   ],
   "DEVELOPER": [
     "100044713412032"
