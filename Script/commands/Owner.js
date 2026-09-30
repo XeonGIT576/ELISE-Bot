@@ -2,8 +2,8 @@ const request = require("request");
 const fs = require("fs-extra");
 
 module.exports.config = {
-  name: "owner",
-  aliases: ["ownerinfo", "owners"],
+  name: "Rudues",
+  aliases: ["Shadow", "Formless"],
   version: "1.0.1",
   hasPermssion: 0,
   credits: "SHAHADAT SAHU",
@@ -18,24 +18,24 @@ module.exports.run = async function ({ api, event }) {
   const info = `
 👑 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
 
-👤 𝗡𝗮𝗺𝗲: 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲: 𝗦𝗔𝗛𝗨
-🎂 𝗔𝗴𝗲: 𝟭𝟴+
+👤 𝗡𝗮𝗺𝗲: Rudues Gray
+🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲: Shadow
+🎂 𝗔𝗴𝗲: 20+
 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻: 𝗦𝗶𝗻𝗴𝗹𝗲
-🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻: 𝗛𝗦𝗖
-🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: Who Knows 
+📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻: Don't Know
+🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: Doesn't Have Any 
 
 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 
 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-fb.com/100044713412032
+fb.com/61591445297058
 
 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:
-m.me/100044713412032
+m.me/61591445297058
 
 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-wa.me/01882333052
+wa.me/Won't Give It To You
 `;
 
   const images = [
