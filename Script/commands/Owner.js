@@ -39,10 +39,10 @@ wa.me/Won't Give It To You
 `;
 
   const images = [
-    "https://i.imgur.com/hPtliXo.jpeg",
-    "https://i.imgur.com/cwd64Av.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
-    "https://i.imgur.com/5dG8PS5.jpeg"
+    "https://i.imgur.com/9WQUOg3.jpeg",
+    "https://i.imgur.com/ufHqiDX.jpeg",
+    "https://i.imgur.com/o4PqvaB.jpeg",
+    "https://i.imgur.com/qd6WB8m.jpeg"
   ];
 
   const randomImg =
