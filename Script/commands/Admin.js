@@ -4,8 +4,8 @@ const fs = require("fs-extra");
 const moment = require("moment-timezone");
 
 module.exports.config = {
- name: "admin",
- aliases: ["admininfo", "infoadmin"],
+ name: "Rudues",
+ aliases: ["Shadow", "Rudy"],
  version: "1.0.0",
  hasPermssion: 0,
  credits: "SHAHADAT SAHU",
@@ -23,22 +23,22 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
-│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
+│👤 𝐍𝐚𝐦𝐞 : Rudues Gray 
+│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Male
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 18+
+│🎂 𝐀𝐠𝐞 : 20+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Illiterate 
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : In Your Mind 
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
+│https://fb.com/61591445297058
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│https://wa.me/Won't Give You
 └───────────────⭓
 
 ┌───────────────⭓
